@@ -1,2 +1,3 @@
 [tools]
+node = { version = "26", minimum_release_age = "3d", auto_update = "3d" }
 pnpm = "latest"
