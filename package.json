@@ -12,10 +12,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/sitemap": "^3.7.5",
+    "@astrojs/sitemap": "^3.7.6",
     "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "^2.1.0",
-    "astro": "^7.4.12"
+    "astro": "^7.4.13"
   },
   "devDependencies": {
     "@astrojs/markdown-satteri": "^0.4.10",
